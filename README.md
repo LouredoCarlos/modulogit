@@ -1,1 +1,2 @@
-meu primeiro sistema no git  (alterado e atualizado)
+meu primeiro sistema no git  
+aprendendo a mexer no git 
